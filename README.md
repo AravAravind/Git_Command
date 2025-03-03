@@ -47,7 +47,7 @@ UNDER DEVELOPMENT
 Clone the repo and explore Git commands step by step!
 
 ```sh
-git clone https://github.com/your-username/git-commands-guide.git
+git clone https://github.com/AravAravind/Git_Command.git
 ```
 
 ## Contributing

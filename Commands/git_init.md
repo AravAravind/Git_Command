@@ -26,7 +26,7 @@ ls -h
 
 You should see a `.git` directory. You can also check the repository status with:  
 
-[Git Status](Commands/git_status.md)  
+[Git Status](git_status.md)  
 
 If hidden files are enabled, you will be able to see the `.git` folder in your project directory.  
 

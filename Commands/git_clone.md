@@ -43,7 +43,7 @@ git clone https://github.com/arvind444/nykaa-personal-care-data-scrap.git WebScr
 
 Cloning only the `opengl_filter` branch:  
 
-[Git Branch](Commands/git_branch.md)
+[Git Branch](git_branch.md)
 
 ```sh
  git clone --branch opengl_filter https://github.com/Genymobile/scrcpy.git
@@ -65,7 +65,7 @@ git status
 
 List the remote repositories linked: 
 
-[Git Remote](Commands/git_remote.md)
+[Git Remote](git_remote.md)
 
 ```sh
 git remote -v
