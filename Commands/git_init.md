@@ -10,19 +10,19 @@ To initialize a Git repository in the current directory, use:
 ```sh
 git init
 ```  
-[1](Images\Git_init\1.png) 
+![1](../Images/Git_init/1.png) 
 
-[2](Images/Git_init/2.png) 
+![2](../Images/Git_init/2.png) 
 
 ## Verifying Initialization  
 
 To check if Git has been initialized, run:  
 
-- **Windows**
+Windows
 ```sh
 ls -h 
 ```  
-[3](Images/Git_init/3.png)
+![3](../Images/Git_init/3.png)
 
 You should see a `.git` directory. You can also check the repository status with:  
 
@@ -30,7 +30,7 @@ You should see a `.git` directory. You can also check the repository status with
 
 If hidden files are enabled, you will be able to see the `.git` folder in your project directory.  
 
-[4](Images/Git_init/4.png)
+![4](../Images/Git_init/4.png)
 
 ## Conclusion  
 
