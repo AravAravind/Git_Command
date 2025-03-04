@@ -27,19 +27,20 @@ UNDER DEVELOPMENT
 
 9. [Git Branch](Commands/git_branch.md) - Manage branches.
 10. [Git Checkout](Commands/git_checkout.md) - Switch branches or restore files.
-11. [Git Merge](Commands/git_merge.md) - Merge changes from different branches.
-12. [Git Rebase](Commands/git_rebase.md) - Move or combine commits to maintain a cleaner history.
+11. [Git Switch](Commands/git_switch.md) - Switching branches
+12. [Git Merge](Commands/git_merge.md) - Merge changes from different branches.
+13. [Git Rebase](Commands/git_rebase.md) - Move or combine commits to maintain a cleaner history.
 
 ## Remote Repositories
 
-13. [Git Remote](Commands/git_remote.md) - Manage remote repositories.
-14. [Git Push](Commands/git_push.md) - Upload local changes to a remote repository.
-15. [Git Pull](Commands/git_pull.md) - Fetch and merge changes from a remote repository.
+14. [Git Remote](Commands/git_remote.md) - Manage remote repositories.
+15. [Git Push](Commands/git_push.md) - Upload local changes to a remote repository.
+16. [Git Pull](Commands/git_pull.md) - Fetch and merge changes from a remote repository.
 
 ## Advanced Commands
 
-16. [Git Stash](Commands/git_stash.md) - Temporarily save changes without committing.
-17. [Git Config](Commands/git_config.md) - Configure Git settings.
+17. [Git Stash](Commands/git_stash.md) - Temporarily save changes without committing.
+18. [Git Config](Commands/git_config.md) - Configure Git settings.
 
 📌 **Cheatsheet:** [Quick Reference](cheatsheet.md)
 
