@@ -55,3 +55,8 @@ git clone https://github.com/AravAravind/Git_Command.git
 
 Feel free to contribute by adding more Git commands, explanations, or improving existing content. Fork the repository, make your changes, and submit a pull request!
 
+## Connect with Me
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arav-r)
+
+
