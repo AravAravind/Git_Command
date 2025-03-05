@@ -38,6 +38,7 @@ git stash apply
 ```sh
 git stash apply stash@{n}
 ```  
+![9](../Images/Git_stash/9.png)
 
 ### Apply and remove the most recent stash  
 
@@ -65,6 +66,7 @@ git stash drop stash@{n}
 ```sh
 git stash clear
 ```  
+![10](../Images/Git_stash/10.png)
 
 ## Example  
 
