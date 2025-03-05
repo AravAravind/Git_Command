@@ -36,11 +36,12 @@ UNDER DEVELOPMENT
 14. [Git Remote](Commands/git_remote.md) - Manage remote repositories.
 15. [Git Push](Commands/git_push.md) - Upload local changes to a remote repository.
 16. [Git Pull](Commands/git_pull.md) - Fetch and merge changes from a remote repository.
+17. [Git Fetch](Commands/git_fetch.md) - Fetch from a remote repository.
 
 ## Advanced Commands
 
-17. [Git Stash](Commands/git_stash.md) - Temporarily save changes without committing.
-18. [Git Config](Commands/git_config.md) - Configure Git settings.
+18. [Git Stash](Commands/git_stash.md) - Temporarily save changes without committing.
+19. [Git Config](Commands/git_config.md) - Configure Git settings.
 
 📌 **Cheatsheet:** [Quick Reference](cheatsheet.md)
 
